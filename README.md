@@ -3,8 +3,8 @@
 I'm a **Master's student** at **Zhejiang University**, focused on **Generative Adversarial Networks (GANs)** for video generation. I’m passionate about **deep learning**, **NLP**, and **computer vision**. With internship experience at **Alibaba** and **J.P. Morgan**, I've honed my skills in **backend optimization**, **AI**, and **data management**.
 
 ## 🔍 What I Do
-- **AI Research**: Exploring **GANs** and **large-scale language models**.  
-- **Machine Learning**: Building systems with **Transformers**, **SVM**, and **BERT**.  
+- **AI Research**: Exploring **GANs** and **Transformer**.  
+- **Machine Learning**: Building systems with **Transformers**, **GAN**, and **Diffusion**.  
 - **Computer Vision**: Developing models for **image super-resolution**, **segmentation**, and **image generation**.
 
 ## 🚀 Projects
