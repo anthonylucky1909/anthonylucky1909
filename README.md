@@ -19,9 +19,8 @@ I'm a **Master's student** at **Zhejiang University** specializing in **Generati
 - **Tools**: Git, Docker, AWS, Google Cloud  
 
 ## 📫 Let's Connect!
-- **Email**: [huangjunxiang19@gmail.com](mailto:huangjunxiang19@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/anthonyhuang1909](https://linkedin.com/in/anthonyhuang1909)  
-- **GitHub**: [github.com/antshuang19](https://github.com/antshuang19)
+- **GitHub**: [https://github.com/anthonyhuang19]
 
 ---
 
