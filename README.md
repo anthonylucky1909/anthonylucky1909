@@ -11,7 +11,7 @@ I'm a **Master's student** at **Zhejiang University**, focused on **Generative A
 
 - **[TriAttNet](https://github.com/anthonyhuang19/TriAttNet)**: **Triple Attention Mechanism** for **image super-resolution**.  
 - **[ImageMosaic](https://github.com/anthonyhuang19/ImageMosaic)**: Image mosaicking and homography estimation.  
-- **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: **Edge detection** & **image segmentation** with **k-means**.  
+- **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: **Edge detection** & **image segmentation**.
 - **[HybridFilter](https://github.com/anthonyhuang19/HybridFilter)**: **Hybrid image generation** and advanced **image filtering** techniques.  
 - **[RetailDB](https://github.com/anthonyhuang19/RetailDB)**: SQL database for scalable **e-commerce applications**.  
 - **[TDGame-War-of-the-Towers](https://github.com/anthonyhuang19/TDGame-War-of-the-Towers)**: Tower defense game development.  
