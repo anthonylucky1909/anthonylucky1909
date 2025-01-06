@@ -8,7 +8,7 @@ I'm a **Master's student** at **Zhejiang University**, focused on **Generative A
 - **Computer Vision**: Developing models for **image super-resolution**, **segmentation**, and **image generation**.
 
 ## 🚀 Projects
-
+- **[Selfie2Anime](https://github.com/anthonyhuang19/Selfie2Anime)**: **Selfie2Anime: A Deep Learning Approach for Image Translation.**
 - **[TriAttNet](https://github.com/anthonyhuang19/TriAttNet)**: **Triple Attention Mechanism** for **image super-resolution**.  
 - **[ImageMosaic](https://github.com/anthonyhuang19/ImageMosaic)**: Image mosaicking and homography estimation.  
 - **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: **Edge detection** & **image segmentation**.
