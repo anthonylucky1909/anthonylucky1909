@@ -1,6 +1,6 @@
 # Hi, I'm Anthony Huang (Tony) 👋
 
-I'm a **Master's student** at **Zhejiang University**, focused on **Generative Adversarial Networks (GANs)** for video generation. I’m passionate about **deep learning**, **NLP**, and **computer vision**. With internship experience at **Alibaba** and **J.P. Morgan**, I've honed my skills in **backend optimization**, **AI**, and **data management**.
+I'm a **Master's student** at **Zhejiang University**, focused on **Generative Adversarial Networks (GANs)** for video generation in Prof. Zou at CAD Group Research. I’m passionate about **deep learning**, **NLP**, and **computer vision**. With internship experience at **Alibaba** and **J.P. Morgan**, I've honed my skills in **backend optimization**, **AI**, and **data management**.
 
 ## 🔍 What I Do
 - **AI Research**: Exploring **GANs** and **Transformer**.  
