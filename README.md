@@ -31,6 +31,7 @@ I'm a **Graduated Researcher** at **Zhejiang University**, focused on **Generati
 ## 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/anthonyhuang1909](https://linkedin.com/in/anthonyhuang1909)  
 - **GitHub**: [github.com/anthonyhuang19](https://github.com/anthonyhuang19)
+- - **Personal Web**: [[github.com/anthonyhuang19](https://github.com/anthonyhuang19)](https://anthonyhuang19.github.io/)
 
 ---
 
