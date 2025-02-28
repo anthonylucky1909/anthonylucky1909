@@ -10,7 +10,6 @@ I'm a **Graduate Researcher** at **Zhejiang University**, focused on **Super-Res
 ## 🚀 Projects
 - **[Panorama-Stitching](https://github.com/anthonyhuang19/Panorama-Stitching-Pro)**: Panorama creation via **feature detection** and **homography estimation**.  
 - **[TriAttNet](https://github.com/anthonyhuang19/TriAttNet)**: **Triple Attention Mechanism** for **image super-resolution**.  
-- **[Selfie2Anime](https://github.com/anthonyhuang19/Selfie2Anime)**: **Deep Learning Approach** for **image translation**.
 - **[ImageMosaic](https://github.com/anthonyhuang19/ImageMosaic)**: **Image mosaicking** and **homography estimation**.  
 - **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: **Edge detection** & **image segmentation**.
 - **[HybridFilter](https://github.com/anthonyhuang19/HybridFilter)**: **Hybrid image generation** and advanced **image filtering** techniques.  
