@@ -1,23 +1,19 @@
 # Hi, I'm Anthony Huang (Tony) 👋
 
-I'm a **Graduate Researcher** at **Zhejiang University**, focused on **Super-Resolution** and **Transformers** in Prof. Zou's **CAD Group Research**. I’m passionate about **deep learning**, **NLP**, and **computer vision**. With internship experience at **Alibaba** and **J.P. Morgan**, I've honed my skills in **backend optimization**, **AI**, and **data management**.
+I'm a **Graduate Researcher** at **Zhejiang University**, specializing in **Super-Resolution** and **Transformers** under the guidance of Prof. Zou in the **CAD Group Research**. I am deeply passionate about **deep learning**, **NLP**, and **computer vision**. My internship experiences at **Alibaba** and **J.P. Morgan** helped me develop expertise in **backend optimization**, **AI**, and **data management**.
 
 ## 🔍 What I Do
-- **AI Research**: Exploring **Super-Resolution**, **Transformers**, and **Generative Adversarial Networks (GANs)**.
-- **Machine Learning**: Building systems with **Transformers**, **GANs**, and **Diffusion Models**.
-- **Computer Vision**: Developing models for **image super-resolution**, **segmentation**, and **image generation**.
+- **AI Research**: Exploring advanced techniques in **Super-Resolution**, **Transformers**, and **Generative Adversarial Networks (GANs)**.
+- **Machine Learning**: Developing systems using **Transformers**, **GANs**, and **Diffusion Models** for various applications.
+- **Computer Vision**: Working on models for **image super-resolution**, **segmentation**, and **image generation**.
 
-## 🚀 Projects
-- **[Panorama-Stitching](https://github.com/anthonyhuang19/Panorama-Stitching-Pro)**: Panorama creation via **feature detection** and **homography estimation**.  
-- **[TriAttNet](https://github.com/anthonyhuang19/TriAttNet)**: **Triple Attention Mechanism** for **image super-resolution**.  
-- **[ImageMosaic](https://github.com/anthonyhuang19/ImageMosaic)**: **Image mosaicking** and **homography estimation**.  
-- **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: **Edge detection** & **image segmentation**.
-- **[HybridFilter](https://github.com/anthonyhuang19/HybridFilter)**: **Hybrid image generation** and advanced **image filtering** techniques.  
-- **[RetailDB](https://github.com/anthonyhuang19/RetailDB)**: SQL database for scalable **e-commerce applications**.  
-- **[DTW-SVM-X](https://github.com/anthonyhuang19/DTW-SVM-X)**: **SVM + Dynamic Time Warping** for **time-series classification**.  
-- **[Advanced-OS-Concepts](https://github.com/anthonyhuang19/Advanced-OS-Concepts)**: Study of **OS concepts** like **thread synchronization** and **distributed systems**.  
-- **[FPGA-Embedded-Systems](https://github.com/anthonyhuang19/FPGA-Embedded-Systems)**: Designing **digital circuits** and **microprocessors** with **FPGA**.  
-- **[E-CommX](https://github.com/anthonyhuang19/E-CommX)**: **Full-stack e-commerce platform** development.  
+## 🚀 Current Projects
+- **[Super-Resolution With Triple Attention](https://github.com/anthonyhuang19/Super-Resolution-With-Triple-Attention)**: Enhancing **image super-resolution** using a **Triple Attention Mechanism** for faster and more accurate results.  
+- **[Adapting ESRGAN for Enhanced Super-Resolution](https://github.com/anthonyhuang19/Adapting-ESRGAN-for-Enhanced-Super-Resolution-Experiments)**: Exploring improvements to the **ESRGAN** architecture for better **super-resolution** performance.  
+- **[GeoVis](https://github.com/anthonyhuang19/GeoVis-Advanced-Geometric-Visualization-and-Drawing-Tool)**: An advanced tool for visualizing and interacting with **geometric shapes** and **algorithms** to explore computational geometry.  
+- **[ImageMosaic](https://github.com/anthonyhuang19/ImageMosaic)**: Working on **image mosaicking** and **homography estimation** to generate seamless panoramic images.  
+- **[EdgeSeg](https://github.com/anthonyhuang19/EdgeSeg-Edge-Detection-and-Image-Segmentation)**: Developing **edge detection** and **image segmentation** algorithms to enhance image understanding.  
+- **[TriAttNet](https://github.com/anthonyhuang19/TriAttNet)**: Creating a **Triple Attention Mechanism** for improving **image super-resolution** quality across channels, spatial regions, and global dependencies.  
 
 ## 🛠 Skills
 - **Languages**: Python, C/C++, Java, SQL  
@@ -27,8 +23,8 @@ I'm a **Graduate Researcher** at **Zhejiang University**, focused on **Super-Res
 ## 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/anthonyhuang1909](https://linkedin.com/in/anthonyhuang1909)  
 - **GitHub**: [github.com/anthonyhuang19](https://github.com/anthonyhuang19)  
-- **Personal Web**: [anthonyhuang19.github.io](https://anthonyhuang19.github.io)
+- **Personal Website**: [anthonyhuang19.github.io](https://anthonyhuang19.github.io)
 
 ---
 
-Feel free to explore my work and collaborate with me on exciting projects! 🚀
+Feel free to explore my work and collaborate on exciting projects! 🚀
