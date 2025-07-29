@@ -55,7 +55,7 @@ I specialize in artificial intelligence, backend development, and applied machin
 ## 📫 Contact
 
 - **GitHub**: [github.com/anthonyhuang19](https://github.com/anthonyhuang19)  
-- **LinkedIn**: [linkedin.com/in/anthonyhuang1909](https://linkedin.com/in/anthonyhuang1909)  
+- **LinkedIn**: [linkedin.com/in/junxianglucky](https://www.linkedin.com/in/junxianglucky/)  
 - **Portfolio**: [anthonyhuang19.github.io](https://anthonyhuang19.github.io)
 
 ---
