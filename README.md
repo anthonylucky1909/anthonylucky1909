@@ -1,4 +1,4 @@
-# Hi, I'm Anthony Huang (Tony) 👋😄
+# Hi, I'm Anthony (Jun Xiang) 👋😄
 
 I'm a **Graduate Researcher** at **Zhejiang University** 🎓, specializing in **Super-Resolution** and **Transformers** under the guidance of Prof. Zou in the **CAD Group Research** 🔬. I am deeply passionate about **deep learning** 🤖, **NLP** 🧠, **computer vision** 👀, and **data science** 📊. My internship experiences at **Alibaba** 🏢 and **J.P. Morgan** 💼 have helped me develop expertise in **backend optimization**, **AI**, **data management**, and **model deployment** 🚀.
 
