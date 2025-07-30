@@ -12,26 +12,6 @@
   ▸ Cloud-Native Microservice Architectures  
   ▸ Database & Cache Optimization
   
-## 📌 Pinned Projects
-
-- **SCAttNet**: [Attention-Enhanced Image Super-Resolution Engine](https://github.com/anthonyhuang19/SCAttNet)  
-  `Python`
-
-- **ESRGANX**: [Enhanced Super-Resolution with Custom Training](https://github.com/anthonyhuang19/ESRGANX)  
-  `Jupyter Notebook`
-
-- **SceneBoW**: [Scene Recognition with Bag of Words and Tiny Image Representation](https://github.com/anthonyhuang19/SceneBoW)  
-  `Python`
-
-- **TaxiMind**: [Intelligent Fare Prediction and Optimization Engine](https://github.com/anthonyhuang19/TaxiMind)  
-  `Python`
-
-- **LiteCDN**: [A Lightweight Caching Layer for Fast and Efficient Content Delivery](https://github.com/anthonyhuang19/LiteCDN)  
-  `Python`
-
-- **KeyMesh**: [High-performance distributed key-value store in modern C++](https://github.com/anthonyhuang19/KeyMesh)  
-  `C++`
-  
 ##  🛠 Technical Proficiencies
 
 **Machine Learning & AI**  
