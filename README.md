@@ -43,7 +43,3 @@
 
 **Performance Engineering**  
 `Profiling` `Benchmarking` `System Design` `Concurrency Models`
-
-##  📫 Professional Contacts
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/junxianglucky)  
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=github)](https://anthonyhuang19.github.io)
