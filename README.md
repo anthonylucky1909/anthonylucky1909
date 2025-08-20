@@ -65,35 +65,6 @@ I'm a Machine Learning Systems Engineer with expertise in developing and deployi
 - Resource Management
 
 ---
-
-## 🚀 Featured Projects
-
-### Video-to-MP3 Microservices Platform
-Designed async Flask/FFmpeg microservice, accelerating video-to-MP3 conversion by 4× without diminishing audio quality. Deployed with Docker/Kubernetes and integrated MongoDB/MySQL for storage and caching, improving system uptime by 20%.
-
-**Tech Stack**: `Python` `Flask` `FFmpeg` `Docker` `Kubernetes` `MongoDB` `MySQL` `Redis`
-
-### [GPT-2 Chatbot with Web Deployment](https://github.com/anthonylucky1909/LLM-Engine)
-Trained GPT-2 for language generation by creating embeddings and tokenizing text with PyTorch. Delivered a web-based chatbot with FastAPI and Docker, successfully handling 95% of user interactions.
-
-**Tech Stack**: `PyTorch` `Transformers` `FastAPI` `Docker` `Python`
-
-### [High-Resolution Image Enhancement](https://github.com/anthonylucky1909/SCAttNet)
-Constructed dual-attention Super Resolution network in PyTorch, achieving 4× image resolution without performance loss. Engineered a FastAPI backend for deployment, reducing latency by 30% under high workloads.
-
-**Tech Stack**: `PyTorch` `OpenCV` `FastAPI` `Docker`
-
-### High-Performance Golang URL Shortener
-Developed distributed URL shortener with Redis caching and MongoDB storage, scaling to 10k+ requests with analytics.
-
-**Tech Stack**: `Go` `Redis` `MongoDB` `Docker`
-
-### [Distributed C++ Key-Value Store](https://github.com/anthonylucky1909/KeyMesh)
-Built a high-throughput distributed key-value store in C++ with multithreaded TCP servers and async replication for scalability.
-
-**Tech Stack**: `C++` `Multithreading` `TCP` `Distributed Systems`
-
----
 ## 📝 Latest Blog Posts
 <!-- If you have a blog, you can add your latest posts here -->
 - [Optimizing AI Model Inference in Production](https://yourblog.com/post1)
