@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anthony Huang (Jun Xiang) 👋</h1>
+<h1 align="center">Hi, I'm Anthony👋</h1>
 <h3 align="center">Machine Learning Engineer | Backend Developer</h3>
 
 <p align="center">
