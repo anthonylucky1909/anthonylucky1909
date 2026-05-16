@@ -1,60 +1,102 @@
-<h1 align="center">Hi, I'm Anthony👋</h1>
-<h3 align="center">Machine Learning Engineer | Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/tonylucky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:huangjunxiang19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/antsluck?s=21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+# Anthony Huang
+
+### Software Engineer | AI Systems | Backend Infrastructure
+
+I build reliable backend systems, AI applications, and data infrastructure with a focus on scalability, observability, and production quality.
+
+<p>
+  <a href="https://linkedin.com/in/tonylucky">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:huangjunxiang19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/antsluck?s=21">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I am a software engineer and Master of Information Technology student specializing in Artificial Intelligence at UNSW. My experience spans backend engineering, data platforms, distributed systems, LLM applications, and ML infrastructure.
+
+I am interested in building practical systems that are reliable, scalable, and easy to operate in production.
+
+---
+
+## Core Strengths
+
+- Backend service design with Python, FastAPI, C++, Java, and SQL
+- Data pipeline reliability, observability, anomaly detection, and ETL monitoring
+- LLM applications, RAG systems, conversational analytics, and model-serving APIs
+- Distributed systems, concurrency, TCP services, and scalable storage
+- Cloud-native development with AWS, Docker, Kubernetes, Redis, PostgreSQL, Kafka, and Airflow
+
+---
+
+## Technical Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+## Experience Highlights
 
-Machine Learning Systems Engineer specializing in **scalable AI deployment** and **distributed systems**.  
-I bridge research and production with expertise in optimization, performance engineering, and system design.
+**Software Engineering Intern · BI3 Technologies**  
+Built production data pipeline monitoring and observability systems using Python and AWS, reducing diagnosis time by **60%** through dashboards, alerting, and anomaly detection.
 
-- 🔭 Working on **high-performance AI inference systems**  
-- 🌱 Exploring **advanced optimization for distributed systems**  
-- 👯 Open to **collaborating on ML open-source & research**  
-- 💬 Ask me about **ML Systems, Distributed Computing, Optimization**  
-- ⚡ Fun fact: Love solving complex problems & sharing knowledge  
+**Research Assistant · Zhejiang University CAD Lab**  
+Implemented Diffusion Transformer super-resolution pipelines in PyTorch and achieved **4× model compression** using pruning, quantization, and knowledge distillation.
 
----
+**Software Engineering Intern · Meituan Data Platform**  
+Built Python backend services integrating ChatGLM with analytics systems and improved workflow reliability by **35%** through query optimization, error handling, and retry logic.
 
-## 🛠️ Technical Stack
-
-**AI & ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-
-- **Computer Vision**: Super-Resolution, Generative Models  
-- **NLP**: LLMs, RAG Systems, Text Generation  
-- **Time-Series**: Forecasting, Anomaly Detection, Recommendations  
-
-**Backend & Distributed Systems**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-- Microservices & Cloud-Native Development (AWS, GCP)  
-- High-throughput Data Processing & DB Scaling  
-- System Profiling, Benchmarking, Latency Optimization  
+**Software Engineering Intern · Alibaba Group**  
+Built distributed ETL pipelines for IoT telemetry and developed a FastAPI question-answering service, improving throughput by **24%** and recall by **18%**.
 
 ---
 
-## 📝 Latest Blog Posts
-- [Optimizing AI Model Inference in Production](https://yourblog.com/post1)  
-- [Building Scalable RAG Systems](https://yourblog.com/post2)  
-- [Lessons in Distributed Systems Design](https://yourblog.com/post3)  
+## Selected Projects
+
+**KeyMesh** — C++, TCP, Multithreading, Distributed Systems  
+Distributed key-value store with peer replication and thread-safe request handling.
+
+**Model Serving Microservice** — Python, FastAPI, Docker, Kubernetes, MLflow  
+Containerized LLM inference service with autoscaling, monitoring, and model versioning.
+
+**RAG Document Summarization System** — Python, LLM, Retrieval, FastAPI  
+Retrieval-augmented generation pipeline for document summarization with semantic search and low-latency serving.
+
+---
+
+## Contact
+
+I am open to software engineering internship opportunities in backend engineering, AI systems, infrastructure, and data platforms.
+
+<p>
+  <a href="mailto:huangjunxiang19@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tonylucky">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
