@@ -57,24 +57,6 @@ I am interested in building practical systems that are reliable, scalable, and e
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
----
-
-## Experience Highlights
-
-**Software Engineering Intern · BI3 Technologies**  
-Built production data pipeline monitoring and observability systems using Python and AWS, reducing diagnosis time by **60%** through dashboards, alerting, and anomaly detection.
-
-**Research Assistant · Zhejiang University CAD Lab**  
-Implemented Diffusion Transformer super-resolution pipelines in PyTorch and achieved **4× model compression** using pruning, quantization, and knowledge distillation.
-
-**Software Engineering Intern · Meituan Data Platform**  
-Built Python backend services integrating ChatGLM with analytics systems and improved workflow reliability by **35%** through query optimization, error handling, and retry logic.
-
-**Software Engineering Intern · Alibaba Group**  
-Built distributed ETL pipelines for IoT telemetry and developed a FastAPI question-answering service, improving throughput by **24%** and recall by **18%**.
-
----
-
 ## Selected Projects
 
 **KeyMesh** — C++, TCP, Multithreading, Distributed Systems  
